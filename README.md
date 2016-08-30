@@ -1,2 +1,2 @@
 # hello-world
-what the heck is this all about
+What the heck is this even all about?
